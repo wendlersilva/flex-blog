@@ -1,2 +1,2 @@
 ### Projeto Flex Blog
-- Praticado FlexBox
+- Praticando FlexBox
